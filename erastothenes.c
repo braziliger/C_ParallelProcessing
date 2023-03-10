@@ -1,9 +1,4 @@
 /*
- *  Christopher Maxey
- *  UTA ID 1000426750
- *  CSE 4351 - 001
- *  Homework 4, Problem 1
- *
  *  sieve of erastothenes
  *
  *  compile:
